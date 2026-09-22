@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # n8n-dify-deepseek-workflow
 
 **n8n 编排 + Dify 做 AI 应用 + DeepSeek 当便宜模型：最小闭环工作流。**
